@@ -9,5 +9,5 @@ Zurzeit beinhaltet diese Seite hauptsächlich Abiturvorbereitungsmaterialien in 
 Da ich Deutsch abgelehnt habe, ist Rechtschreibung hier sekundär.
 
 Hier sind ein paar Einstiegspunkte:
-* [[Neuron]] Der beste einstieg in das Themenfeld der #Neurobiologie
-* [[Photosynthese]] Der Beste einstieg in das Themenfeld der #Stoffwechselphysiologie
+* [[Neuron|Der beste einstieg in das Themenfeld der]]  #Neurobiologie
+* [[Photosynthese|Der Beste einstieg in das Themenfeld der]]  #Stoffwechselphysiologie
