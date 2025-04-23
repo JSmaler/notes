@@ -10,7 +10,7 @@ Da ich Deutsch abgelehnt habe, ist Rechtschreibung hier sekundär.
 
 Hier sind ein paar Einstiegspunkte:
 * [[Neuron|Der beste einstieg in das Themenfeld der]]  #Neurobiologie
-* [[Photosynthese|Der Beste einstieg in das Themenfeld der]]  #Stoffwechselphysiologie
+* [[Fotosynthese|Der Beste einstieg in das Themenfeld der]]  #Stoffwechselphysiologie
 
 # Nutzung dieser Seite
 
@@ -19,3 +19,7 @@ Rechts jeder Seite findet man eine "Graph View". Diese Zeigt direkt, mittels lin
 Wenn man auf diese View klickt, kann man eine übersiecht der Ganzen Notizendatenbank finden.
 ### Notizenliste
 Auf der Linken Seite der Website befindet sich eine in Ordner aufgebrochene liste aller Notizen, und eine Suchleiste.
+
+# Neue Artikel (23.04.2025):
+
+[[Fotochemische Reaktion]]
