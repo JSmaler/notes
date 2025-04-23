@@ -3,7 +3,7 @@ tags:
   - Bio
   - Stoffwechselphysiologie
 ---
-Die Fotosynthese ist der Prozess, welcher aus anorganischem CO₂ und H₂O Mittels Fotonischer energie Organische Stoffe -Kohlenhydrate- gewonnen werden.
+Die Fotosynthese ist der Prozess, welcher aus anorganischem CO₂ und H₂O Mittels Fotonischer energie Organische Stoffe -Kohlenhydrate- gewonnen werden, und welcher in den [[Chloroplast]]en, den grünen Zellen vieler Pflanzen stadtfindet.
 Diese Organischen stoffe Liefern dann die nötige energie für andere Lebensvorgänge.
 Fotosynthese ist auch für den aufbau der Biomasse Verantwortlich, da Konsumenten ≥ 1 art, und Destruenten, indirekt auf diese Energiereserven angewiesen sind.
 
@@ -21,4 +21,5 @@ Die Absorbationsspektren dieser Blattfarbsstoffe stimmt größtenteils mit dem W
 [[Fotochemische Reaktion]]
 Die Fotosynthese ist in Primär- & Sekundär-vorgänge aufgeteilt. Die **Lichtabhängigen** Primärvorgänge Setzten Fotoenergie in Chemische Energie um. Hierzu wird Wasser Oxidiert und NADP⁺ zum energierecheren NADPH + H⁺ Reduziert und [[ATP]] gebildet.
 ## Synthesereaktionen (Sekundärvorgänge)
+[[Synthesereaktion]]
 Die **Lichtunabhängigen** Sekundärvorgänge wandeln CO₂ mithilfe von NADPH + H⁺ zu und ATP reduziert, und zu Zuckerphosphaten Verarbeitet. Da das an das  NADP⁺ gebundene Wasserstoff gleichzeitig zu wasser Oxidiert wird, entsteht hier das H₂O der Fotosynthesegleichung.
