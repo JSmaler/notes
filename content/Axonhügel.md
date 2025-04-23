@@ -3,7 +3,7 @@ tags:
   - Bio
   - Neurobiologie
 ---
-Der Axonhügel / Axonursprung ist der Übergang zwischen [[Soma]] & [[Axon]].
+Der Axonhügel / Axonursprung ist der übergang zwischen [[Soma]] & [[Axon]].
 
 Der Axonursprung ist für die Synaptische Verschaltung und Verrechnung verantwortlich.
 Hier gehen PSP's (sowohl EPSPs und IPSPs ) ein, und werden, jeh nach erregungsstärke, [[Aktionspotential]]e produziert.
