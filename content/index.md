@@ -20,6 +20,8 @@ Wenn man auf diese View klickt, kann man eine übersiecht der Ganzen Notizendate
 ### Notizenliste
 Auf der Linken Seite der Website befindet sich eine in Ordner aufgebrochene liste aller Notizen, und eine Suchleiste.
 
-# Neue Artikel (23.04.2025):
+# Neue Artikel:
 
-[[Fotochemische Reaktion|Fotochemische Reaktion]]
+> [!info] 23.04.2025
+> 
+> [[Fotochemische Reaktion|Fotochemische Reaktion]]
