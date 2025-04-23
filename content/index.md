@@ -1,6 +1,7 @@
 ---
 title: Welcome to Quartz
 ---
+# Wilkommen in Jonathan's Notitzen.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Ich sammel hier alle -für mich- für die ABI-Klausuren relevante Infos.
+Deutsch habe ich mitlerweile abgewählt, Rechtschreibung werdet ihr hier also nicht finden.
