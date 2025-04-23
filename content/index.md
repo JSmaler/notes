@@ -22,4 +22,4 @@ Auf der Linken Seite der Website befindet sich eine in Ordner aufgebrochene list
 
 # Neue Artikel (23.04.2025):
 
-[[Fotochemische Reaktion]]
+[[Fotochemische Reaktion|Fotochemische Reaktion]]
