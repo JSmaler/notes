@@ -11,3 +11,5 @@ Da ich Deutsch abgelehnt habe, ist Rechtschreibung hier sekundär.
 Hier sind ein paar Einstiegspunkte:
 * [[Neuron|Der beste einstieg in das Themenfeld der]]  #Neurobiologie
 * [[Photosynthese|Der Beste einstieg in das Themenfeld der]]  #Stoffwechselphysiologie
+
+* [[ BTT E3Ez setup|BTT E3Ez setup guide]]
