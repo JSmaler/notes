@@ -12,4 +12,10 @@ Hier sind ein paar Einstiegspunkte:
 * [[Neuron|Der beste einstieg in das Themenfeld der]]  #Neurobiologie
 * [[Photosynthese|Der Beste einstieg in das Themenfeld der]]  #Stoffwechselphysiologie
 
-* [[ BTT E3Ez setup|BTT E3Ez setup guide]]
+# Nutzung dieser Seite
+
+### Graph View
+Rechts jeder Seite findet man eine "Graph View". Diese Zeigt direkt, mittels links mit dem aktuell aufgerufene Artikel verbundene Artikel. Dies kann sehr nützlich sein um einen schnellen Überblick eines Themas zu schaffen.
+Wenn man auf diese View klickt, kann man eine übersiecht der Ganzen Notizendatenbank finden.
+### Notizenliste
+Auf der Linken Seite der Website befindet sich eine in Ordner aufgebrochene liste aller Notizen, und eine Suchleiste.
