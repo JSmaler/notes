@@ -43,14 +43,12 @@
     --callout-icon: var(--callout-icon-abstract);
   }
 
-  &[data-callout="info"],
-  &[data-callout="todo"] {
+  &[data-callout="info"] {
     --color: #00b8d4;
     --border: #00b8d444;
     --bg: #00b8d410;
     --callout-icon: var(--callout-icon-info);
   }
-
   &[data-callout="todo"] {
     --callout-icon: var(--callout-icon-todo);
   }
@@ -85,7 +83,8 @@
 
   &[data-callout="failure"],
   &[data-callout="danger"],
-  &[data-callout="bug"] {
+  &[data-callout="bug"],
+  &[data-callout="todo"] {
     --color: #db4242;
     --border: #db424244;
     --bg: #db424210;

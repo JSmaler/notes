@@ -13,6 +13,7 @@ Langfristig werde ich hier die Gesamtheit meiner Notizen einpflegen.
 Hier sind ein paar Einstiegspunkte:
 * [[Neuron|Der beste einstieg in das Themenfeld der]]  #Neurobiologie
 * [[Fotosynthese|Der Beste einstieg in das Themenfeld der]]  #Stoffwechselphysiologie
+* [[Ökosystem & Biotop|Der beste einstieg in das Themenfeld der]] #Ökologie 
 
 # Nutzung dieser Seite
 
@@ -22,11 +23,21 @@ Wenn man auf diese View klickt, kann man eine übersiecht der Ganzen Notizendate
 ### Notizenliste
 Auf der Linken Seite der Website befindet sich eine in Ordner aufgebrochene liste aller Notizen, und eine Suchleiste.
 
+# todo
+der #todo Tag bedeutet, dass ich hier noch nicht fertig bin. Hier ist noch "something left **to-do**".
 # Neue Artikel:
 
 > [!Info] 24.04.2025
 > * [[ATP|ATP]]
 > * [[NAD|NAD]]
+> * Neuer Themenbereich: #Ökologie
+> * [[Ökosystem & Biotop|Ökosystem & Biotop]]
+> * [[Umweltfaktoren|Umweltfaktoren]]
+> * [[Lotka-Volterra-Regeln|Lotka-Volterra-Regeln]]
+> * [[Parasitismus|Parasitismus]]
+> * [[symbiotismus|symbiotismus]]
+> * [[Ökologische Nische|Ökologische Nische]]
+
 
 > [!info] 23.04.2025
 > 
