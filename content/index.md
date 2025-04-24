@@ -6,7 +6,9 @@ tags:
 Willkommen in meinen Notizen.
 
 Zurzeit beinhaltet diese Seite hauptsächlich Abiturvorbereitungsmaterialien in BIO.
-Da ich Deutsch abgelehnt habe, ist Rechtschreibung hier sekundär.
+Da ich Deutsch abgewählt habe, ist Rechtschreibung hier ***SEHR*** sekundär.
+
+Langfristig werde ich hier die Gesamtheit meiner Notizen einpflegen.
 
 Hier sind ein paar Einstiegspunkte:
 * [[Neuron|Der beste einstieg in das Themenfeld der]]  #Neurobiologie
@@ -26,3 +28,5 @@ Auf der Linken Seite der Website befindet sich eine in Ordner aufgebrochene list
 > 
 > * [[Fotochemische Reaktion|Fotochemische Reaktion]]
 > * [[Synthesereaktion|Synthesereaktion]]
+> * [[Fotosynthese#Abhängigkeit von abiotischen Faktoren]]
+> * [[Dünnschichtchromatographie|Dünnschichtchromatographie]]
