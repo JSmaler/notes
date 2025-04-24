@@ -24,6 +24,10 @@ Auf der Linken Seite der Website befindet sich eine in Ordner aufgebrochene list
 
 # Neue Artikel:
 
+> [!Info] 24.04.2025
+> * [[ATP|ATP]]
+> * [[NAD|NAD]]
+
 > [!info] 23.04.2025
 > 
 > * [[Fotochemische Reaktion|Fotochemische Reaktion]]
