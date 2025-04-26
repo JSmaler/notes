@@ -18,3 +18,4 @@ Unter [[aneroben bedingugnen]] verwenden **denitrifizierende Bakterien** den Sau
 
 # Kohlenstoffkreislauf
 
+Pflanzen sind wichtig für ein Ökosystem. Sie Liefern, U.a. durch Photosynthese Energie, Bilden die Biomasse, welche den größten anteil des Kohlenstoffeintrags in ein Ökosystem darstellt.
