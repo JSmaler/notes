@@ -1,3 +1,9 @@
+# This is my Quartz v4-powered github pages mirror of my notes. 
+
+It mainly includes my notes for my high-school exams, but i've got some tech-related stuff in here aswell.
+Its hosted with Quartz v4, the readme of which you can read below, unedited.
+huge thanks to the Quartz project.
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
