@@ -18,4 +18,16 @@ Unter [[aneroben bedingugnen]] verwenden **denitrifizierende Bakterien** den Sau
 
 # Kohlenstoffkreislauf
 
-Pflanzen sind wichtig für ein Ökosystem. Sie Liefern, U.a. durch Photosynthese Energie, Bilden die Biomasse, welche den größten anteil des Kohlenstoffeintrags in ein Ökosystem darstellt.
+Pflanzen sind wichtig für ein Ökosystem. Sie Liefern, U.a. durch Photosynthese Energie, Bilden die Biomasse, welche den größten anteil des Kohlenstoffeintrags in ein Ökosystem, und der Sauerstoffproduktion darstellt.
+
+wärend die Energie durch die Nahrungskette wandert, durchläuft der Kohlenstoff einen Kreislaufprozess.
+
+der **Kohlenstoffkreislauf** beginnt mit der 
+1. Chemische fixierung des Kohlenstoff in der [[Fotosynthese]]
+2. weiterverarbeitung im [[Zuckerstoffwechsel]]
+3. übergang in das [[Nahrungsnetz]] durch die Konsumenten
+4. freisetzung über [[Zuckerstoffwechsel|Stoffwechsel]] **oder** bei tod des organismuss, anlagerung im Boden durch destruenten.
+im Boden angelagerter Kohlenstoff kann durch z.B. Sedimentierung auch langfristig fixiert werden.
+
+>[!todo] Grafik von seite 66
+> #todo
