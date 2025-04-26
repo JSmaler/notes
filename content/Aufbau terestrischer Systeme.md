@@ -23,3 +23,16 @@ Laubwälder Zeigen meist eine stärkere Strauchschicht als Nadelwälder, da im F
 
 Da Pilze kein Licht benötigen, sind sie in beiden Waldarten gleich vertreten.
 
+# Standortfaktoren & Bewirtschaftung / Standortaufnahme
+
+Mitteleuropa ist heute beinahe Frei von natürlichen wäldern. Staddessen herschen fast überall die Forst, Von menschen für Wirtschaftliche nutztung gepflanzte wälder.
+
+je nach der Bodenart unter einem zukünftigen forst werden unterschiedliche bäume gewählt.
+
+auf Nährsalzarme trockensandige böden werden Kiefern gesetzt, auf Kalkreichen, Eichen und Buchenmischwälder. In feuchen niederungen werden Erlen gepflanz.
+Fichten sind wegen ihrer Schnellwüchsigkeit generell bevorzugt
+
+>[!info] Hinweis:
+>Diese regeln sind, wenn man von Nottuln oder Dülmen aus richtung Münster die A34 entlangfährt ist deiser Effekt selbst zu beobachten. Die Böden rund um die Kalksandstein-Hügel der Baumberge ist Kalkreich, während in richtung Münster trockenere sandböden zu finden sind. Dementsprechend ist ein Übergang in den Forstwaldbauarten in den Försten welche von der autobahn aus zu erkennen sind, zu beobachten.
+
+
