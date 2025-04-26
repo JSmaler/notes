@@ -12,3 +12,8 @@ ATP (Adenosin*triphosphat*) wird bei abspaltung einer phosphatgruppe zu ADP (Ade
 **Energieliefernde** reaktionen können AMP / ADP wieder "laden".
 
 GTP (Guanosintriphosphat) hat eine ähnliche wirkung.
+
+
+> [!todo] Chemiosmotische ATP-Bildung
+> #todo
+> p. 49

@@ -27,6 +27,10 @@ Auf der Linken Seite der Website befindet sich eine in Ordner aufgebrochene list
 der #todo Tag bedeutet, dass ich hier noch nicht fertig bin. Hier ist noch "something left **to-do**".
 # Neue Artikel:
 
+> [!info] 26.04.2025
+> * [[Stoffkreißlauf und Energiefluss|Stoffkreißlauf und Energiefluss]]
+> * [[Biochemischer Kreislauf|Biochemischer Kreislauf]]
+
 > [!Info] 24.04.2025
 > * [[ATP|ATP]]
 > * [[NAD|NAD]]
