@@ -30,7 +30,8 @@ der #todo Tag bedeutet, dass ich hier noch nicht fertig bin. Hier ist noch "some
 > [!info] 26.04.2025
 > * [[Stoffkreißlauf und Energiefluss|Stoffkreißlauf und Energiefluss]]
 > * [[Biochemischer Kreislauf|Biochemischer Kreislauf]]
-> * [[Zonierung|Zonierung]]
+> * [[Aufbau Aquatischer systeme|Aufbau Aquatischer systeme]]
+> * [[Aufbau terestrischer Systeme|Aufbau terestrischer Systeme]]
 
 > [!Info] 24.04.2025
 > * [[ATP|ATP]]
