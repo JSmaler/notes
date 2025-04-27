@@ -12,6 +12,6 @@ alle Lebewesen des Ökosystems (oder der Biozönose) sind von **Biotischen**, so
 
 
 
-
+# Biosphäre
 
 Die gesamtheit aller Biotope der Erde ist die **Biosphäre**.

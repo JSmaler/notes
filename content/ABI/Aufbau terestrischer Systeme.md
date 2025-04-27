@@ -23,7 +23,7 @@ Laubwälder Zeigen meist eine stärkere Strauchschicht als Nadelwälder, da im F
 
 Da Pilze kein Licht benötigen, sind sie in beiden Waldarten gleich vertreten.
 
-# Standortfaktoren & Bewirtschaftung / Standortaufnahme
+# Standortfaktoren & Bewirtschaftung
 
 Mitteleuropa ist heute beinahe Frei von natürlichen wäldern. Staddessen herschen fast überall die Forst, Von menschen für Wirtschaftliche nutztung gepflanzte wälder.
 
@@ -34,5 +34,10 @@ Fichten sind wegen ihrer Schnellwüchsigkeit generell bevorzugt
 
 >[!info] Hinweis:
 >Diese regeln sind, wenn man von Nottuln oder Dülmen aus richtung Münster die A34 entlangfährt ist deiser Effekt selbst zu beobachten. Die Böden rund um die Kalksandstein-Hügel der Baumberge ist Kalkreich, während in richtung Münster trockenere sandböden zu finden sind. Dementsprechend ist ein Übergang in den Forstwaldbauarten in den Försten welche von der autobahn aus zu erkennen sind, zu beobachten.
+
+
+# Vegetationsaufnahme
+Für Eine Vegetationsaufnahme wird eine etwa 25m² Probefläche gewählt, und auf auftretenden Pflanzenarten überprüft. Daraufhinn wird der Deckungsgrad der einzelnen Arten in dieser fläche nach Braun-Blanquet (was bedeutet das? keine erklärung im buch #todo) auf einer skala von +/1 bis 5. dabei kann die summe aller Deckungsgrade leicht über 100% liegen, da sich die pflanzen gegenseitig decken.
+
 
 
