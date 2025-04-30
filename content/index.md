@@ -27,8 +27,16 @@ Auf der Linken Seite der Website befindet sich eine in Ordner aufgebrochene list
 der #todo Tag bedeutet, dass ich hier noch nicht fertig bin. Hier ist noch "something left **to-do**".
 # Neue Artikel:
 
+> [!info] 28.05.2025
+> * Neuer Themenbereich #Genetik
+> * [[DNA|DNA]]
+> * [[Replikation|Replikation]]
+> * [[Proteinbiosynthese|Proteinbiosynthese]]
+
+
 > [!info] 27.04.2025
 > * [[Erhaltung von Ökosystemen|Erhaltung von Ökosystemen]]
+> * [[Ökosystemmanagement|Ökosystemmanagement]]
 
 > [!info] 26.04.2025
 > * [[Stoffkreißlauf und Energiefluss|Stoffkreißlauf und Energiefluss]]

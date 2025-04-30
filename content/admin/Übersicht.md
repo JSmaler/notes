@@ -4,7 +4,9 @@ tags:
   - todo
 ---
 # Inhaltsfelder
-1. Neurobiologie
-2. Stoffwechselphysiologie
-3. Ökologie
-4. Genetik & Evolution
+   
+- [x] Neurobiologie
+- [x] Stoffwechselphysiologie
+- [x] Ökologie
+- [ ] Genetik 
+- [ ] Evolution
