@@ -29,6 +29,7 @@ der #todo Tag bedeutet, dass ich hier noch nicht fertig bin. Hier ist noch "some
 
 
 >[!info] 01.05.2025
+>* [[Nukleinbasen|Nukleinbasen]]
 >* [[Genregulation durch epigenetischer Mechanismen auf Ebene des Chromatins|Genregulation durch epigenetischer Mechanismen auf Ebene des Chromatins]]
 >* [[Genregulation mittels RNA-Interferenz auf Ebene der Translation|Genregulation mittels RNA-Interferenz auf Ebene der Translation]]
 

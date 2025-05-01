@@ -15,3 +15,4 @@ die Vorgänge sind:
 * [[Genregulation durch epigenetischer Mechanismen auf Ebene des Chromatins|Genregulation durch epigenetischer Mechanismen auf Ebene des Chromatins]]
 * [[Genregulation mittels RNA-Interferenz auf Ebene der Translation|Genregulation mittels RNA-Interferenz auf Ebene der Translation]]
 
+# Prokaryoten
