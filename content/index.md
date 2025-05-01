@@ -27,7 +27,17 @@ Auf der Linken Seite der Website befindet sich eine in Ordner aufgebrochene list
 der #todo Tag bedeutet, dass ich hier noch nicht fertig bin. Hier ist noch "something left **to-do**".
 # Neue Artikel:
 
-> [!info] 28.05.2025
+
+>[!info] 01.05.2025
+>* [[Genregulation durch epigenetischer Mechanismen auf Ebene des Chromatins|Genregulation durch epigenetischer Mechanismen auf Ebene des Chromatins]]
+
+>[!info] 30.04.2025
+> * [[Genregulation|Genregulation]]
+> * [[Genregulation durch alternatives Spleißen|Genregulation durch alternatives Spleißen]]
+> * [[Genregulation mittels Transkriptionsfaktor|Genregulation mittels Transkriptionsfaktor]]
+
+
+> [!info] 28.04.2025
 > * Neuer Themenbereich #Genetik
 > * [[DNA|DNA]]
 > * [[Replikation|Replikation]]

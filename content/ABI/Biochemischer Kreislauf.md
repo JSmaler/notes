@@ -14,7 +14,7 @@ Deshalb wird er, in den Nahrungsstufen, meist in Aminogruppen (-NH₂) weitergeg
 
 In z.B. Harnstoff ausgeschiedener, oder in Tier/Pflanzenresten enthaltene Aminogruppen werden durch [[Stoffkreißlauf und Energiefluss#Destruenten|Destruenten]] im Prozess der **Ammonifikation** zu Ammonium-Ionen (NH₄⁺) mineralisiert, welche Pflanzen direkt aufnehmen können, welche aber meist durch Mikroorganismen über Nitrit- (NO₂⁻) zu Nitrationen (NO₃⁻) oxidiert. Hierdurch gewinnen diese Mikroorganismen die für die [[Chemosynthese]] notwendige Energie. Dieser Prozess ist nur unter [[aeroben bedingugnen]] möglich. Nitrationen können auch durch Pflanzen aufgenommen werden.
 
-Unter [[aneroben bedingugnen]] verwenden **denitrifizierende Bakterien** den Sauerstoff der Nitrate / Nitride für ihren Stoffwechsel, und bilden gasförmigen Stickstoff, welcher wieder in die Atmosphäre entweichen kann (**Denitrifikation**). Dieser Luftstickstoff kann durch **stickstoffbindende Nitrifizierende Bakterien** wieder Organismen zugeführt werden, wie z.B. durch Knöllchenbakterien in den Wurzeln von Schmetterlingsblüten (Bohnen / Klee). Diese Beziehung ist dann [[symbiotismus|mutualistisch]].
+Unter [[anaeroben bedingugen]] verwenden **denitrifizierende Bakterien** den Sauerstoff der Nitrate / Nitride für ihren Stoffwechsel, und bilden gasförmigen Stickstoff, welcher wieder in die Atmosphäre entweichen kann (**Denitrifikation**). Dieser Luftstickstoff kann durch **stickstoffbindende Nitrifizierende Bakterien** wieder Organismen zugeführt werden, wie z.B. durch Knöllchenbakterien in den Wurzeln von Schmetterlingsblüten (Bohnen / Klee). Diese Beziehung ist dann [[symbiotismus|mutualistisch]].
 
 # Kohlenstoffkreislauf
 
