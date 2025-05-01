@@ -13,4 +13,5 @@ die Vorgänge sind:
 * [[Genregulation mittels Transkriptionsfaktor|Genregulation mittels Transkriptionsfaktor]]
 * [[Genregulation durch alternatives Spleißen|Genregulation durch alternatives Spleißen]]
 * [[Genregulation durch epigenetischer Mechanismen auf Ebene des Chromatins|Genregulation durch epigenetischer Mechanismen auf Ebene des Chromatins]]
-* 
+* [[Genregulation mittels RNA-Interferenz auf Ebene der Translation|Genregulation mittels RNA-Interferenz auf Ebene der Translation]]
+
