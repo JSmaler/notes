@@ -27,6 +27,10 @@ Auf der Linken Seite der Website befindet sich eine in Ordner aufgebrochene list
 der #todo Tag bedeutet, dass ich hier noch nicht fertig bin. Hier ist noch "something left **to-do**".
 # Neue Artikel:
 
+>[!info] 05.05.2025
+> * Neuer Themenbereich #Mathe
+> * [[Ableitungsregeln|Ableitungsregeln]]
+> * [[Exponentialfunktion|Exponentialfunktion]]
 
 >[!info] 01.05.2025
 >* [[Nukleinbasen|Nukleinbasen]]
