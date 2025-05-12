@@ -28,8 +28,9 @@ der #todo Tag bedeutet, dass ich hier noch nicht fertig bin. Hier ist noch "some
 # Neue Artikel:
 
 >[!info] 12.05.2025
->* [[Mutation]]
->* [[Genommutation]]
+>* [[Genetischer Fingerabdruck|Genetischer Fingerabdruck]]
+>* [[Mutation|Mutation]]
+>* [[Genommutation|Genommutation]]
 >* Neuer Themenbereich #evolution
 
 >[!info] 05.05.2025
