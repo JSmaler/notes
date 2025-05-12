@@ -14,3 +14,5 @@ eg:
 $$f(x)=g(h(x))$$
 $$f'(x)=g'(h(x)) \times h'(x)$$
 $g$ ist hier die äußere Funktion, und $h$ die innere.
+
+# exponentailfunktionen

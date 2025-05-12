@@ -27,9 +27,16 @@ Auf der Linken Seite der Website befindet sich eine in Ordner aufgebrochene list
 der #todo Tag bedeutet, dass ich hier noch nicht fertig bin. Hier ist noch "something left **to-do**".
 # Neue Artikel:
 
+>[!info] 12.05.2025
+>* [[Mutation]]
+>* [[Genommutation]]
+>* Neuer Themenbereich #evolution
+
 >[!info] 05.05.2025
 > * Neuer Themenbereich #Mathe
 > * [[Ableitungsregeln|Ableitungsregeln]]
+> * [[Ortslinie|Ortslinie]]
+> * [[Winkel|Winkel]]
 > * [[Exponentialfunktion|Exponentialfunktion]]
 
 >[!info] 01.05.2025
@@ -42,13 +49,11 @@ der #todo Tag bedeutet, dass ich hier noch nicht fertig bin. Hier ist noch "some
 > * [[Genregulation durch alternatives Spleißen|Genregulation durch alternatives Spleißen]]
 > * [[Genregulation mittels Transkriptionsfaktor|Genregulation mittels Transkriptionsfaktor]]
 
-
 > [!info] 28.04.2025
 > * Neuer Themenbereich #Genetik
 > * [[DNA|DNA]]
 > * [[Replikation|Replikation]]
 > * [[Proteinbiosynthese|Proteinbiosynthese]]
-
 
 > [!info] 27.04.2025
 > * [[Erhaltung von Ökosystemen|Erhaltung von Ökosystemen]]
@@ -70,7 +75,6 @@ der #todo Tag bedeutet, dass ich hier noch nicht fertig bin. Hier ist noch "some
 > * [[Parasitismus|Parasitismus]]
 > * [[symbiotismus|symbiotismus]]
 > * [[Ökologische Nische|Ökologische Nische]]
-
 
 > [!info] 23.04.2025
 > 
