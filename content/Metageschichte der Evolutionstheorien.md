@@ -15,4 +15,4 @@ Manche dieser Variationen sind für den "Struggle for life", Kampf ums Dasein, b
 
 So ist die Umwelt der Lebewesen Selektionsfaktor.
 
-Aus Darwins Theorien entwikelte sich die [[Synthetische evolutionstheorie]]
+Aus Darwins Theorien entwikelte sich die [[Synthetische Evolutionstheorie]]

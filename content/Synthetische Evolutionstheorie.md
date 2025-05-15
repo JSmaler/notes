@@ -35,3 +35,7 @@ Rudimente sind zurückbleibsel alter, nichtmehr, oder anders genutzter Organe, z
 #### Atavismen
 Atavismen sind abweichungen in der Ausbildung eines Merkmals in richtung eines bei Vorfahren typischen merkmals, z.B. einer Schwanzartigen Verlängerung des Steisbeins bei menschen, welche bei weniger als 0.00001 % chance aufzutreten.
 
+
+[[Artwandel]]
+
+[[Selektion]]

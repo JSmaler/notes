@@ -28,8 +28,10 @@ der #todo Tag bedeutet, dass ich hier noch nicht fertig bin. Hier ist noch "some
 # Neue Artikel:
 
 >[!info] 15.05.2025
->* [[Synthetische evolutionstheorie|Synthetische evolutionstheorie]]
+>* [[Synthetische Evolutionstheorie|Synthetische Evolutionstheorie]]
 >* [[Population|Population]]
+>* [[Artwandel|Artwandel]]
+>* [[Selektion|Selektion]]
 
 >[!info] 13.05.2025
 >* [[Metageschichte der Evolutionstheorien|Metageschichte der Evolutionstheorien]]
