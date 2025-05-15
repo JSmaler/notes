@@ -19,7 +19,7 @@ Hier sind ein paar Einstiegspunkte:
 
 ### Graph View
 Rechts jeder Seite findet man eine "Graph View". Diese Zeigt direkt, mittels links mit dem aktuell aufgerufene Artikel verbundene Artikel. Dies kann sehr nützlich sein um einen schnellen Überblick eines Themas zu schaffen.
-Wenn man auf diese View klickt, kann man eine übersiecht der Ganzen Notizendatenbank finden.
+Wenn man auf diese View klickt, kann man eine übersiecht der ganzen Notizendatenbank finden.
 ### Notizenliste
 Auf der Linken Seite der Website befindet sich eine in Ordner aufgebrochene liste aller Notizen, und eine Suchleiste.
 
@@ -27,7 +27,18 @@ Auf der Linken Seite der Website befindet sich eine in Ordner aufgebrochene list
 der #todo Tag bedeutet, dass ich hier noch nicht fertig bin. Hier ist noch "something left **to-do**".
 # Neue Artikel:
 
+>[!info] 15.05.2025
+>* [[Synthetische evolutionstheorie|Synthetische evolutionstheorie]]
+>* 
+
+>[!info] 13.05.2025
+>* [[Metageschichte der Evolutionstheorien|Metageschichte der Evolutionstheorien]]
+>* [[CRISPR-Cas|CRISPR-Cas]]
+
 >[!info] 12.05.2025
+>* [[Stambaumanalyse|Stambaumanalyse]]
+>* [[Insulinproduktion|Insulinproduktion]]
+>* [[Viren|Viren]]
 >* [[Genetischer Fingerabdruck|Genetischer Fingerabdruck]]
 >* [[Mutation|Mutation]]
 >* [[Genommutation|Genommutation]]
