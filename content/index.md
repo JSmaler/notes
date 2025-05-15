@@ -29,7 +29,7 @@ der #todo Tag bedeutet, dass ich hier noch nicht fertig bin. Hier ist noch "some
 
 >[!info] 15.05.2025
 >* [[Synthetische evolutionstheorie|Synthetische evolutionstheorie]]
->* 
+>* [[Population|Population]]
 
 >[!info] 13.05.2025
 >* [[Metageschichte der Evolutionstheorien|Metageschichte der Evolutionstheorien]]
