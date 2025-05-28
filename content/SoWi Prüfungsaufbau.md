@@ -1,3 +1,7 @@
+---
+tags:
+  - SoWi
+---
 
 # Teil I
 Aufgaben wie auch bei Klausur, Stichpunktartig anarbeiten, text "vorlesen".
